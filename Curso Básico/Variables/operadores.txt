@@ -1,0 +1,57 @@
+Para esta parte decidi no hacer el .py por que son cosas muy sencillas
+Se dividen en operadores aritméticos, relacionales, de asignaciones y logicos.
+
+Operadores aritméticos:
+
+-Suma +
+-Resta -
+-Multiplicación *
+-Exponente **
+-División /
+-División entera //
+-Modulo: Divide el operando de la izquierda entre el de la derecha y devuelve
+el residuo. %
+
+Ejemplo del modulo:
+
+Operadores relacionales
+
+Sirve para comparar datos y devuelven una vareable booleana (True, False)
+
+== ¿Son iguales?
+
+!= ¿Son distintos?
+
+< ¿Uno es menor que otro?
+
+> ¿Uno es mayor que otro?
+
+<= ¿Uno es menor o igual que otro?
+
+>= ¿Uno es mayor o igual que otro?
+
+Ejemplo con ==:
+
+r= 5 == 10, r es False
+
+Operadores de asignaciones
+
+= Se le asigna un valor a una variable.
+
++= Se le suma a la variable izquierda el valor de la variable derecha.
+
+-= Se le resta a la variable izquierda el valor de la variable derecha.
+
+*= Multiplica a la variable izquierda por la variable de la derecha.
+
+/= Divide a la variable izquierda por la variable de la derecha.
+
+Operadores logicos
+
+'and' True and True = True, False and True = False, True and False = False,
+False and False = False
+
+'or' True and True = True, False and True = True, True and False = True,
+False and False = False
+
+'not' True = False, False = True

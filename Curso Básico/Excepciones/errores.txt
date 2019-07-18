@@ -1,0 +1,15 @@
+ZeroDivisionError: integer division or modulo by zero
+
+Una división mal gestionada
+
+NameError: name ‘pan’ is not defined
+
+La variable pan no esta definida
+
+TypeError: cannot concatenate ‘str’ and ‘int’ objects
+
+No se pueden concatenar string con integer (caracteres con números enteros)
+
+expected an indented block
+
+Normalmente es un error del sangrado
